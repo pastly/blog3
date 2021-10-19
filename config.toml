@@ -1,0 +1,7 @@
+baseURL = "/"
+#baseURL = "http://araqeu4xzitptpwuv3fb7dbskuq6btwdvh7qoloursotgbhssdl27tqd.onion/"
+languageCode = "en-us"
+title = "Matt Traudt"
+theme = "smol"
+
+publishdir = "../public_html"
