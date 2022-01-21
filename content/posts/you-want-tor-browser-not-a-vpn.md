@@ -21,7 +21,7 @@ In most cases.
 
 [tls-web-traffic]: https://transparencyreport.google.com/https/overview
 [bad-relays]: https://trac.torproject.org/projects/tor/wiki/doc/ReportingBadRelays
-[about-me]: https://matt.traudt.xyz/p/6eKe2i5v.html
+[about-me]: /posts/2016-08-28-about-me/
 [fullscreen-browser]: https://old.reddit.com/r/TOR/comments/czftid/not_setting_browser_window_to_fullscreen/eyykf6p/
 [mouse-movement]: https://www.businessinsider.com/websites-apps-track-mouse-movements-screen-swipes-security-behavioral-biometrics-2019-7
 [fb-shadow]: https://www.theverge.com/2018/4/11/17225482/facebook-shadow-profiles-zuckerberg-congress-data-privacy
