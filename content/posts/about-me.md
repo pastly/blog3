@@ -53,44 +53,34 @@ stop working without me noticing)</small>.
 
 <big>**Self-Authenticating Traditional Domain Names**</big>
 [[pdf](/papers/secdev19-satdomains.pdf)]
-[[code](https://github.com/pastly/satis-selfauth-domains)]
-<br/>
-[IEEE Secure Development Conference (SecDev 2019)][2019-secdev]
-<br/>
+[[code](https://github.com/pastly/satis-selfauth-domains)]  
+[IEEE Secure Development Conference (SecDev 2019)][2019-secdev]  
 [Paul Syverson][] and Matthew Traudt
 
 <big>**KIST: Kernel-Informed Socket Transport for Tor**</big>
 [[pdf](/papers/kist-tops2018.pdf)]
-[[acm](https://dl.acm.org/citation.cfm?id=3278121)]
-<br/>
-[ACM Transactions on Privacy and Security (TOPS 2018)][2018-tops]
-<br/>
+[[acm](https://dl.acm.org/citation.cfm?id=3278121)]  
+[ACM Transactions on Privacy and Security (TOPS 2018)][2018-tops]  
 [Rob Jansen][], Matthew Traudt, John Geddes, Chris Wacek, Micah Sherr, and [Paul Syverson][]
 
 <big>**Privacy-preserving Dynamic Learning of Tor Network Traffic**</big>
 [[pdf](/papers/tmodel-ccs2018.pdf)]
-[[data](https://tmodel-ccs2018.github.io/)]
-<br/>
-[25th ACM Conference on Computer and Communication Security (CCS 2018)][2018-ccs]
-<br/>
+[[data](https://tmodel-ccs2018.github.io/)]  
+[25th ACM Conference on Computer and Communication Security (CCS 2018)][2018-ccs]  
 [Rob Jansen][], Matthew Traudt, and [Nick Hopper][]
 
 ## Peer-Reviewed Workshops
 
 <big>**Does Pushing Security on Clients Make Them Safer?**</big>
 [[slides](/papers/hotpets19-pushing-security.pptx)]
-[[pdf](/papers/hotpets19-pushing-security.pdf)]
-<br/>
-[12th Workshop on Hot Topics in Privacy Enhancing Technologies (HotPETs 2019)][2019-hotpets]
-<br/>
+[[pdf](/papers/hotpets19-pushing-security.pdf)]  
+[12th Workshop on Hot Topics in Privacy Enhancing Technologies (HotPETs 2019)][2019-hotpets]  
 Matthew Traudt and [Paul Syverson][]
 
 <big>**HSTS Supports Targeted Surveillance**</big>
 [[pdf](/papers/foci18-paper-syverson.pdf)]
-[[foci](https://www.usenix.org/system/files/conference/foci18/foci18-paper-syverson.pdf)]
-<br/>
-[8th USENIX Workshop on Free and Open Communications on the Internet (FOCI 2018)][2018-foci]
-<br/>
+[[foci](https://www.usenix.org/system/files/conference/foci18/foci18-paper-syverson.pdf)]  
+[8th USENIX Workshop on Free and Open Communications on the Internet (FOCI 2018)][2018-foci]  
 [Paul Syverson][] and Matthew Traudt
 
 <!-- ## Peer-Reviewed Posters and Abstracts -->
@@ -100,44 +90,31 @@ Matthew Traudt and [Paul Syverson][]
 [ff-torspec]: https://gitweb.torproject.org/torspec.git/tree/proposals/316-flashflow.txt
 [ff-email]: https://lists.torproject.org/pipermail/tor-dev/2020-April/014243.html
 
-<big>**FlashFlow: A Secure Speed Test for Tor (Parent Proposal)**</big> [prop#316][ff-torspec], 2020
-<br/>
-Matthew Traudt, [Rob Jansen][], [Aaron Johnson][], and Mike Perry
-<br/>
+<big>**FlashFlow: A Secure Speed Test for Tor (Parent Proposal)**</big> [prop#316][ff-torspec], 2020  
+Matthew Traudt, [Rob Jansen][], [Aaron Johnson][], and Mike Perry  
 [Discussion][ff-email]
 
 ## Other
 
 <big>**FlashFlow: A Secure Speed Test for Tor**</big>
-[[arxiv](https://arxiv.org/pdf/2004.09583.pdf)]
-<br/>
-Technical Report arXiv:2004.09583 [cs.CR] (arXiv 2020)
-<br/>
+[[arxiv](https://arxiv.org/pdf/2004.09583.pdf)]  
+Technical Report arXiv:2004.09583 [cs.CR] (arXiv 2020)  
 Matthew Traudt, [Rob Jansen][], and [Aaron Johnson][]
 
 <big>**Tor’s Been KIST: A Case Study of Transitioning Tor Research to Practice**</big>
 [[pdf](/papers/kistdeploy-arxiv2017.pdf)]
-[[arxiv](https://arxiv.org/pdf/1709.01044.pdf)]
-<br/>
-Technical Report arXiv:1709.01044 [cs.CR] (arXiv 2017)
-<br/>
+[[arxiv](https://arxiv.org/pdf/1709.01044.pdf)]  
+Technical Report arXiv:1709.01044 [cs.CR] (arXiv 2017)  
 [Rob Jansen][] and Matthew Traudt
 
 # Contact
 
-Personal: **sirmatt |at| ksu d0t edu**
-<br/>
-Tor: **pastly |at| torproject d0t org**
-<br/>
-Work: **matthew d0t traudt |at| nrl d0t navy d0t mil**
-<br/>
-[GPG 0x83BCA95294FBBB0A](/pastly.pubkey.txt)
-<br/>
-Reddit: /u/system33- and /u/pastlytor. Any other username claiming to be me is lying.
-<br/>
-IRC: pastly on irc.oftc.net
-<br/>
-Matrix: @pastly:matrix.org
+Personal: **sirmatt |at| ksu d0t edu**  
+Tor: **pastly |at| torproject d0t org**  
+Work: **matthew d0t traudt |at| nrl d0t navy d0t mil**  
+[GPG 0x83BCA95294FBBB0A](/pastly.pubkey.txt)  
+Reddit: /u/system33- and /u/pastlytor. Any other username claiming to be me is lying.  
+IRC: pastly on irc.oftc.net  
 
 # Projects
 
