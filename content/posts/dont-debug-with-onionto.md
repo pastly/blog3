@@ -4,6 +4,7 @@ date: 2016-12-02
 slug: 2021-12-02-dont-debug-with-onionto
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:
@@ -52,8 +53,6 @@ examples.
 `<anything>.onion.link/blah.php` is bad because it's going through a Tor2Web
 proxy  
 `<anything>.onion/blah.php` is good because it isn't. It's normal. Use this.
-
-[[!toc levels=2]]
 
 # Why they exist
 

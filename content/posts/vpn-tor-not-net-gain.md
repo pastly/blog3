@@ -4,6 +4,7 @@ date: 2016-11-12
 slug: 2016-11-12-vpn-tor-not-net-gain
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:
@@ -26,8 +27,6 @@ like it must help. More encryption is always better, right?
 This post will discuss my reasoning for why using a VPN with Tor is not the
 obvious security gain that people make it out to be. Users may not lose any safety
 by adding a VPN, but they probably aren't gaining any.
-
-[[!toc levels=2]]
 
 ----
 

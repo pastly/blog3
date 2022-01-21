@@ -4,6 +4,7 @@ date: 2019-10-17
 slug: 2019-10-17-you-want-tor-browser-not-a-vpn
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:
@@ -39,8 +40,6 @@ In most cases.
 [relay-flags]: https://metrics.torproject.org/relayflags.html
 [deepweb-size]: https://old.reddit.com/r/TOR/comments/bjo481/isp_and_law_enforcement_can_quite_easily_find_out/emburh9/
 [what-deepweb]: https://old.reddit.com/r/TOR/comments/cvpbla/why_the_deep_or_dark_web_as_popularly_depicted/
-
-[[!toc levels=2]]
 
 # Untruth: VPNs protect you from local network hackers
 

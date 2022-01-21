@@ -4,6 +4,7 @@ date: 2021-01-13
 slug: 2021-01-13-tracking-tors-v3-onion-outages
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:
@@ -19,8 +20,6 @@ The long-term solution for not
 allowing people to use exits to do this is tracked [here][exit reentry].
 Read the main body of this post for more information on, e.g., what a
 "consensus" is and how not having them affects onion services.
-
-[[!toc levels=2]]
 
 [last year]: https://gitlab.torproject.org/tpo/core/tor/-/issues/33018
 [actual fix]: https://gitlab.torproject.org/tpo/core/tor/-/issues/40239

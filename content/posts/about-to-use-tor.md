@@ -4,6 +4,7 @@ date: 2019-01-19
 slug: 2019-01-19-about-to-use-tor"
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:
@@ -29,8 +30,6 @@ Read Tor's suggestions on their
 
 **This is where most people should stop giving concrete advice without knowing
 your adversary model. Nonetheless they keep going and suggest ...**
-
-[[!toc]]
 
 # Adding a VPN
 

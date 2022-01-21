@@ -4,6 +4,7 @@ date: 2021-02-12
 slug: 2021-02-12-debunking-osint-analysis
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:
@@ -27,8 +28,6 @@ I can never remember where this amazing post is on the web. Now I can't lose it.
 
 Title: Debunking "OSINT Analysis of the TOR Foundation" and a few words about Tor's directory authorities  
 Date: 2018-10-04 15:00
-
-[[!toc levels=2]]
 
 I have spent years on [Tails](https://tails.boum.org)' IRC channel answering
 questions from various users, amassing a pile of personal notes about the internals

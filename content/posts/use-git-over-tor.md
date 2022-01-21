@@ -4,6 +4,7 @@ date: 2016-10-29
 slug: 2016-10-29-use-git-over-tor
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:
@@ -26,8 +27,6 @@ Or you just think using Tor is cool. I'm with you there! Let's talk about how to
 use Git over Tor. After we're done, you can create an account at my [Gogs onion
 service](http://gogsys33repvmfz5.onion) and start hosting public or private
 repositories on the "deep web!"
-
-[[!toc levels=2]]
 
 
 # Assumptions

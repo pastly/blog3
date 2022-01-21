@@ -4,6 +4,7 @@ date: 2020-03-04
 slug: 2020-03-04-bm-major-releases"
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:

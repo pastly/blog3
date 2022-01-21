@@ -5,3 +5,16 @@ title = "Matt Traudt"
 theme = "smol"
 
 publishdir = "./publishdir"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # unsafe: render raw HTML. Okay as I'm the only one writing content.
+      unsafe = true
+    [markup.goldmark.extensions]
+      # don't change quotes into fancy quotes, dashes into en/em-dashes, etc.
+      typographer = false
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
+    startLevel = 1

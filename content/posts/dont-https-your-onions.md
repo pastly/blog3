@@ -4,6 +4,7 @@ date: 2017-12-20
 slug: 2017-12-02-dont-https-your-onions
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:
@@ -16,8 +17,6 @@ maybe not updated, here.*
 ---
 
 Unless you're an edge case (which you aren't).
-
-[[!toc levels=2]]
 
 # Why you would want HTTPS
 

@@ -4,6 +4,7 @@ date: 2021-05-03
 slug: 2021-05-03-website-setup
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:
@@ -23,8 +24,6 @@ I will further explain:
 
 - How the *.onion available* button is obtained in my setup.
 - How to add an onion `Alt-Svc` that works.
-
-[[!toc]]
 
 I have a very simple setup. I have a tor daemon running on the same machine as
 nginx. As most of my websites are static, nginx serves their files directly in most cases.

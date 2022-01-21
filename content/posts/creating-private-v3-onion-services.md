@@ -4,6 +4,7 @@ date: 2019-01-19
 slug: 2019-01-19-creating-private-v3-onion-services"
 type: posts
 draft: false
+toc: true
 categories:
   - default
 tags:
@@ -46,8 +47,6 @@ Some quick facts:
 -->
 
 Here's how you set this up.
-
-[[!toc]]
 
 Alice is the client. Bob runs an onion service and wants to allow Alice to
 connect to it. Everyone has Tor 0.3.5.7 or newer.
