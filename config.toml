@@ -3,8 +3,8 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Matt Traudt"
 theme = "smol"
-
 publishdir = "./publishdir"
+paginate = 100
 
 [markup]
   [markup.goldmark]
