@@ -133,7 +133,7 @@ your website. They can easily be shared as all the important bits and pieces are
 in one directory per theme. Here's the "terminal" theme that I created and will
 officially support in addition to the default theme.
 
-![terminal theme](/posts/bm-major-releases/bm-4.0-1.png)
+![terminal theme](/img/bm-4.0-1.png)
 
 For information how how to set your theme, [see here][wikitheme]. For
 information about creating your own theme, [see here][wikitheming]. It's very
@@ -145,7 +145,7 @@ __Page signing__ was added. Now, given a gpg fingerprint, BM will automatically
 cryptographically sign all output files (even the CSS!) and leave a note in the
 footer saying so in officially supported themes.
 
-![signature note](/posts/bm-4.0-2.png)
+![signature note](/img/bm-4.0-2.png)
 
 (Ignore the version number, this was added in v4.0.0. I should probably decide
 something about "in development" versioning...)

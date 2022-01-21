@@ -24,7 +24,7 @@ technical information. You might want to skip this one.
 [ahmia]: http://msydqstlz2kzerdg.onion
 [olsearch]: http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion
 [tor66]: http://tor66sezptuu2nta.onion
-[satpdf]: /posts/shut-up-about-nf5YtW6c/secdev19-satdomains.pdf
+[satpdf]: /papers/secdev19-satdomains.pdf
 [zooko]: https://en.wikipedia.org/wiki/Zooko%27s_triangle
 [gitea]: http://lgekyjf5vosmbfvcxzg3g5mmcncmwy4d3nhjrdqqiqzl5nmhqlfemaid.onion
 

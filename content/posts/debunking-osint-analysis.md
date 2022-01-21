@@ -35,7 +35,7 @@ questions from various users, amassing a pile of personal notes about the intern
 of both Tor and Tails in the process.
 
 A friend of mine linked me an ["interesting" paper](https://arxiv.org/abs/1803.05201)
-([local mirror](/posts/Debunking:_OSINT_Analysis_of_the_TOR_Foundation/paper.pdf))
+([local mirror](/debunk-osint/paper.pdf))
 entitled `OSINT Analysis of the TOR Foundation`, and was wondering how much
 trust to put in it. I read it, and decided that it was so hilariously bad that
 it deserved a blogpost. It's also a nice opportunity to explain a few things
@@ -235,10 +235,10 @@ government.
 It's worth noting that while all the figures used in the paper are unreadable,
 it's possible to extract them with `pdfimages` (or to check the [sources](https://arxiv.org/format/1803.05201))
 to see that they are in pretty high-resolution, and actually readable:
-[Figure 1.](/posts/Debunking:_OSINT_Analysis_of_the_TOR_Foundation/fig1.jpg),
-[Figure 2.](/posts/Debunking:_OSINT_Analysis_of_the_TOR_Foundation/fig2.png),
-[Figure 3.](/posts/Debunking:_OSINT_Analysis_of_the_TOR_Foundation/fig3.png) and 
-[Figure 4.](/posts/Debunking:_OSINT_Analysis_of_the_TOR_Foundation/fig4.png).
+[Figure 1.](/debunk-osint/fig1.jpg),
+[Figure 2.](/debunk-osint/fig2.png),
+[Figure 3.](/debunk-osint/fig3.png) and 
+[Figure 4.](/debunk-osint/fig4.png).
 
 The *figure 3.* doesn't come with any legend with regard to the used
 currency, but since its point is to show a ratio, it doesn't matter much.

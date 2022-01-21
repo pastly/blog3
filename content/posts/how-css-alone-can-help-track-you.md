@@ -56,7 +56,7 @@ design speak for "look good on any device." A common condition to care about is
 the width of the window. If the width is relatively small, its relatively safe
 to assume the user is using a mobile device. More importantly, with a small
 width it would be nice to change that top menu bar into a collapsed [hamburger
-button](/posts/how-css-alone-can-help-track-you-YF4ciVY6/hamburger.png)
+button](/img/hamburger.png)
 and to change the page layout from two columns to one.
 
 Additionally, some CSS attributes can point to URLs. This is commonly used if a
