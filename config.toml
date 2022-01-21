@@ -4,4 +4,4 @@ languageCode = "en-us"
 title = "Matt Traudt"
 theme = "smol"
 
-publishdir = "../public_html"
+publishdir = "./publishdir"
