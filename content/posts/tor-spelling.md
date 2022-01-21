@@ -30,5 +30,3 @@ In 2011 he gave a keynote at ACSAC about the history of onion routing. The PDF i
 If you must consider "Tor" to be an acronym, it stands for "the onion routing," not "the onion router." To stay internally consistent, I begrudgingly admit that Tor is an acronym, since this post is framed as pedantic and I'm-more-technically-correct-than-you.
 
 My personal opinion: the """war""" on what the acronym stands for has been lost. The spelling """war""" is still worth fighting.
-
-[[!tag tor]]

@@ -162,5 +162,3 @@ More info on the next generation of onion services:
 - <https://blog.torproject.org/blog/mission-montreal-building-next-generation-onion-services>
 - <https://gitweb.torproject.org/torspec.git/tree/proposals/224-rend-spec-ng.txt>
 - <https://trac.torproject.org/projects/tor/ticket/12424>
-
-[[!tag onion-service tutorial tor]]

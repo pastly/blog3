@@ -72,7 +72,3 @@ will work out wonderfully.
 Do you have a better way to accomplish local echo when SSHing into an onion
 service? Do you want to call me stupid? Or perhaps inform me that I'm blind for
 missing an obvious solution or glaring problem? Please let me know!
-
----
-
-[[!tag mosh onion-service]]

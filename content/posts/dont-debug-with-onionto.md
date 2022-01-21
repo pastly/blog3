@@ -139,10 +139,6 @@ Slightly changing youtube.com into some other domain name that fetches the video
 for you so you don't have to sign in to watch something flagged as adult is the
 same idea, but at least your safety (probably) isn't at risk in that case.
 
----
-
-[[!tag tor tor2web tor-browser]]
-
 [reddit1]: https://www.reddit.com/r/onions/comments/5nyp19/reminder_to_not_use_tor2web_proxies_like/dclbcgo/
 [medium1]: https://medium.com/@c5/tor2web-proxies-are-using-google-analytics-to-secretly-track-users-fd245dbc81c5
 [reddit2]: https://redd.it/bx19c6

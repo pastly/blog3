@@ -152,5 +152,3 @@ Update December 2017: recommend not using this information and remove old
 example since my domain no longer does this.
 
 sources: <https://github.com/placeholdr/nginx-tor-redirect>
-
-[[!tag tutorial nginx tor onion-service]]

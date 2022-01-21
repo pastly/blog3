@@ -168,7 +168,3 @@ complete. Alice should be able to connect, but no one else should be able to.
 
 Bob can authorize up to [about
 350 clients per onion service](https://trac.torproject.org/projects/tor/ticket/29134).
-
-----
-
-[[!tag tor tutorial onion-service]]

@@ -162,5 +162,3 @@ services. If that happens, then my opinion half changes. It's still most likely
 unnecessary for security reasons. But if you run a game forum and can get both
 coolgamez.com and coolgamezxxxxxxx.onion _in the same certificate_, that's
 pretty cool. __That__ actually means something.
-
-[[!tag onion-service]]

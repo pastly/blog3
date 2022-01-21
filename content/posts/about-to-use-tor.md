@@ -181,7 +181,3 @@ installed. What changed? What happened? They don't know, and neither do I. So
 I point the reader back at the
 [Testing your fingerprint](#testing-your-fingerprint) section for why I don't
 think you should care very much about what a fingerprint test site tells you.
-
-------
-
-[[!tag tor tor-browser]]

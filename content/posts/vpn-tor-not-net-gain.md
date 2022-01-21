@@ -339,5 +339,3 @@ will help you made an informed decision.
 ---
 sources: [number of Tor exits and
 guards](https://metrics.torproject.org/relayflags.html?start=2016-08-14&end=2016-11-12&flag=Exit&flag=Guard)
-
-[[!tag Tor VPN]]

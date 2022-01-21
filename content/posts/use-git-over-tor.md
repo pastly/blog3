@@ -221,7 +221,3 @@ transparently use Tor and also save on keystrokes. Some example commands:
     git clone gogsys33:mello/bm.git
     git fetch gogsys33
     git remote add gogsys33 gogsys33:mello/scripts.git
-
----
-
-[[!tag tor tutorial]]

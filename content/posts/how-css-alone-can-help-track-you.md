@@ -129,5 +129,3 @@ If bowers will pick different source images for this
 [&lt;picture> tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 even when CSS is disabled, then this is a technique to accomplish exactly what
 I've demonstrated above even without CSS.
-
-[[!tag tor-browser tor css attack]]

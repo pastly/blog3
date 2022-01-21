@@ -326,7 +326,3 @@ it][deepweb-size].  You're no more likely to get malware from a site ending in
   unfortunate.  Until we make a future where so many people are using Tor for
 benign, boring things, foregoing Tor and using a VPN to access these sites may
 be the best you can do.
-
-------
-
-[[!tag tor tor-browser vpn]]

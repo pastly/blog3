@@ -19,7 +19,7 @@ broken.*
 
 # BM v3.0.0 is Released
 
-Today I've released a new major version of [[!taglink BM]], consisting of about 140
+Today I've released a new major version of BM, consisting of about 140
 commits! See the [changelog](https://gogs.system33.pw/mello/bm/src/master/CHANGELOG.md#v300---2017-01-16)
 for a summary of all the changes, and please
 report issues at [the issue tracker](https://gogs.system33.pw/mello/bm/issues).
@@ -113,7 +113,7 @@ your experience using BM.
 [wikitheme]: https://gogs.system33.pw/mello/bm/wiki/Home#theme-selection
 [wikitheming]: https://gogs.system33.pw/mello/bm/wiki/Theming
 
-Yesterday I released _yet another_ new major version of [[!taglink BM]]! The
+Yesterday I released _yet another_ new major version of BM! The
 [changelog][changelog] has a summary of changes. As before, please report any
 issues at the [issue tracker][issues].
 
@@ -199,7 +199,7 @@ however, the content renders the same. I have no idea why it would be
 different, nor do I know what I was doing to make it break/unbreak.
 
 Thus, to be cautious, I'm calling this a breaking change. Thus a new major
-version for [[!taglink BM]] is required.
+version for BM is required.
 
 The full spec for Github Flavored Markdown is
 [here](https://github.github.com/gfm/). BM bundles `cmark-gfm` v0.29.0, so

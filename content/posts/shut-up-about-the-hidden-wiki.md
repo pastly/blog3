@@ -186,5 +186,3 @@ I think people are going to disagree with me or at least disagree with the way
 I've expressed my thoughts in this section. But I guess ... I guess maybe a
 blog that's 100% technical 100% of the time isn't nearly as good. This at least
 felt good to finally write down.
-
-[[!tag onion-service rant thw]]

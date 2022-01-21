@@ -49,7 +49,3 @@ Tor network capacity, which [some people actually rely
 on](https://www.torproject.org/about/torusers.html.en) to live a free life.
 
 (Oh and there's even more possible v3 onion services)
-
-----
-
-[[!tag tor rant onion-service]]
