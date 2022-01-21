@@ -20,7 +20,7 @@ but maybe not updated, here.*
 
 The repo is on Github [here][repo], and in case that turns out to be a lie in
 the future, the code as of the initial writing of this post is
-[[here|static/brainfuck-rs.txz]].
+[here](/brainfuck-rs.txz).
 
 # About brainfuck
 

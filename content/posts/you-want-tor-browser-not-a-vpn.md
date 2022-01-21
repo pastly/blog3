@@ -25,9 +25,9 @@ In most cases.
 [fullscreen-browser]: https://old.reddit.com/r/TOR/comments/czftid/not_setting_browser_window_to_fullscreen/eyykf6p/
 [mouse-movement]: https://www.businessinsider.com/websites-apps-track-mouse-movements-screen-swipes-security-behavioral-biometrics-2019-7
 [fb-shadow]: https://www.theverge.com/2018/4/11/17225482/facebook-shadow-profiles-zuckerberg-congress-data-privacy
-[hsts-tracking]: /static/papers/foci18-paper-syverson.pdf
-[alt-svc-pdf]: /static/papers/hotpets19-pushing-security.pdf
-[alt-svc-pptx]: /static/papers/hotpets19-pushing-security.pptx
+[hsts-tracking]: /papers/foci18-paper-syverson.pdf
+[alt-svc-pdf]: /papers/hotpets19-pushing-security.pdf
+[alt-svc-pptx]: /papers/hotpets19-pushing-security.pptx
 [apple-hsts]: https://webkit.org/blog/8146/protecting-against-hsts-abuse/
 [hsts]: https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 [alt-svc]: https://tools.ietf.org/html/rfc7838

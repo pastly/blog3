@@ -52,7 +52,7 @@ stop working without me noticing)</small>.
 ## Peer-Reviewed Journals and Conferences
 
 <big>**Self-Authenticating Traditional Domain Names**</big>
-[[pdf](/static/papers/secdev19-satdomains.pdf)]
+[[pdf](/papers/secdev19-satdomains.pdf)]
 [[code](https://github.com/pastly/satis-selfauth-domains)]
 <br/>
 [IEEE Secure Development Conference (SecDev 2019)][2019-secdev]
@@ -60,7 +60,7 @@ stop working without me noticing)</small>.
 [Paul Syverson][] and Matthew Traudt
 
 <big>**KIST: Kernel-Informed Socket Transport for Tor**</big>
-[[pdf](/static/papers/kist-tops2018.pdf)]
+[[pdf](/papers/kist-tops2018.pdf)]
 [[acm](https://dl.acm.org/citation.cfm?id=3278121)]
 <br/>
 [ACM Transactions on Privacy and Security (TOPS 2018)][2018-tops]
@@ -68,7 +68,7 @@ stop working without me noticing)</small>.
 [Rob Jansen][], Matthew Traudt, John Geddes, Chris Wacek, Micah Sherr, and [Paul Syverson][]
 
 <big>**Privacy-preserving Dynamic Learning of Tor Network Traffic**</big>
-[[pdf](/static/papers/tmodel-ccs2018.pdf)]
+[[pdf](/papers/tmodel-ccs2018.pdf)]
 [[data](https://tmodel-ccs2018.github.io/)]
 <br/>
 [25th ACM Conference on Computer and Communication Security (CCS 2018)][2018-ccs]
@@ -78,15 +78,15 @@ stop working without me noticing)</small>.
 ## Peer-Reviewed Workshops
 
 <big>**Does Pushing Security on Clients Make Them Safer?**</big>
-[[slides](/static/papers/hotpets19-pushing-security.pptx)]
-[[pdf](/static/papers/hotpets19-pushing-security.pdf)]
+[[slides](/papers/hotpets19-pushing-security.pptx)]
+[[pdf](/papers/hotpets19-pushing-security.pdf)]
 <br/>
 [12th Workshop on Hot Topics in Privacy Enhancing Technologies (HotPETs 2019)][2019-hotpets]
 <br/>
 Matthew Traudt and [Paul Syverson][]
 
 <big>**HSTS Supports Targeted Surveillance**</big>
-[[pdf](/static/papers/foci18-paper-syverson.pdf)]
+[[pdf](/papers/foci18-paper-syverson.pdf)]
 [[foci](https://www.usenix.org/system/files/conference/foci18/foci18-paper-syverson.pdf)]
 <br/>
 [8th USENIX Workshop on Free and Open Communications on the Internet (FOCI 2018)][2018-foci]
@@ -116,7 +116,7 @@ Technical Report arXiv:2004.09583 [cs.CR] (arXiv 2020)
 Matthew Traudt, [Rob Jansen][], and [Aaron Johnson][]
 
 <big>**Tor’s Been KIST: A Case Study of Transitioning Tor Research to Practice**</big>
-[[pdf](/static/papers/kistdeploy-arxiv2017.pdf)]
+[[pdf](/papers/kistdeploy-arxiv2017.pdf)]
 [[arxiv](https://arxiv.org/pdf/1709.01044.pdf)]
 <br/>
 Technical Report arXiv:1709.01044 [cs.CR] (arXiv 2017)
@@ -131,7 +131,7 @@ Tor: **pastly |at| torproject d0t org**
 <br/>
 Work: **matthew d0t traudt |at| nrl d0t navy d0t mil**
 <br/>
-[[GPG 0x83BCA95294FBBB0A|static/pastly.pubkey.txt]]
+[GPG 0x83BCA95294FBBB0A](/pastly.pubkey.txt)
 <br/>
 Reddit: /u/system33- and /u/pastlytor. Any other username claiming to be me is lying.
 <br/>
