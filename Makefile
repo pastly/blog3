@@ -1,7 +1,9 @@
-.PHONY: all clean deps find-broken-links
+.PHONY: all deps clean deploy find-broken-links
 
 WGET_DIR:= ./wgetcrawl
 CRAWL_ROOT_URL:= http://127.0.0.1:8000/
+RSYNC_HOST:=piggie
+RSYNC_DIR:=/var/www/matt.traudt.xyz
 
 all: | deps build
 
@@ -11,6 +13,13 @@ deps:
 
 clean:
 	rm -rv $(WGET_DIR)
+
+deploy: build
+	rsync \
+		-air \
+		--delete \
+		publishdir/ \
+		$(RSYNC_HOST):$(RSYNC_DIR)
 
 build:
 	hugo
