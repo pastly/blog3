@@ -22,7 +22,8 @@ In most cases.
 
 [tls-web-traffic]: https://transparencyreport.google.com/https/overview
 [bad-relays]: https://trac.torproject.org/projects/tor/wiki/doc/ReportingBadRelays
-[about-me]: /posts/2016-08-28-about-me/
+[about-me]: {{< ref "about-me" >}}
+[css-track]: {{< ref "how-css-alone-can-help-track-you" >}}
 [fullscreen-browser]: https://old.reddit.com/r/TOR/comments/czftid/not_setting_browser_window_to_fullscreen/eyykf6p/
 [mouse-movement]: https://www.businessinsider.com/websites-apps-track-mouse-movements-screen-swipes-security-behavioral-biometrics-2019-7
 [fb-shadow]: https://www.theverge.com/2018/4/11/17225482/facebook-shadow-profiles-zuckerberg-congress-data-privacy
@@ -143,7 +144,7 @@ there is zero ways to combat each bullet.
 mega awesome anonymous you believe yours is. Browsers are getting better at
 preventing this type of tracking.
 
-- They **can** [[detect the size of your browser window|how-css-alone-can-help-track-you-YF4ciVY6]] even without
+- They **can** [detect the size of your browser window][css-track] even without
 the help of big bad JavaScript. Your window is probably a different size from
 everyone else using your VPN with your shared IP address right now. No,
 [maximizing your browser or having a common monitor resolution doesn't help][fullscreen-browser].
@@ -302,9 +303,12 @@ to stop. So here is some additional reading you might find interesting.
 
 ## Reading
 
-- [[Adding a VPN to Tor probably isn't gaining you anything|vpn-tor-not-mRikAa4h]]
+[vpn-plus-tor]: {{< ref "vpn-tor-not-net-gain" >}}
+[about-to-use-tor]: {{< ref "about-to-use-tor" >}}
 
-- [[General Tor Browser security (anti-)tips|about-to-use-SkxEFK1m]] including why you
+- [Adding a VPN to Tor probably isn't gaining you anything][vpn-plus-tor].
+
+- [General Tor Browser security (anti-)tips][about-to-use-tor] including why you
   shouldn't read too much into fingerprint test site results when using Tor
 Browser and especially when you don't now what the results mean; the
 value of adding extra extensions to Tor Browser; and why it's fine to log in to
@@ -317,7 +321,7 @@ value of adding extra extensions to Tor Browser; and why it's fine to log in to
 it][deepweb-size].  You're no more likely to get malware from a site ending in
 .onion than you are from a .com site. (What does """deep web""" [even mean][what-deepweb]?)
 
-- [[I know what I'm talking about|about-me-6eKe2i5v]] and I'm not trying to sell you anything. <sup>I do make mistakes though</sup>
+- [I know what I'm talking about][about-me] and I'm not trying to sell you anything. <sup>I do make mistakes though</sup>
 
 ## Thoughts
 

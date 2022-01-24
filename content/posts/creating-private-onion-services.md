@@ -17,6 +17,8 @@ maybe not updated, here.*
 
 ---
 
+[v3-post]: {{< ref "creating-private-v3-onion-services" >}}
+
 **January 2019 Update**: This post applies to v2 onion services that are 16
 characters long such as
 [mattttttssi4lhud.onion](http://mattttttssi4lhud.onion/).
@@ -25,7 +27,7 @@ In January 2019, Tor 0.3.5.7 was released as the first stable release of the
 supports client authorization of v3 onion services
 (like [zfob4nth675763zthpij33iq4pz5q4qthr3gydih4qbdiwtypr2e3bqd.onion](http://zfob4nth675763zthpij33iq4pz5q4qthr3gydih4qbdiwtypr2e3bqd.onion/)).
 This post that you are currently reading walks you through client authorization
-for v2 onion services. See [[this post|creating-private-v3-FgbdRTFr]] for
+for v2 onion services. See [this post][v3-post] for
 a walk through of client authorization for v3 onion services instead.
 
 [tor-man]: https://www.torproject.org/docs/tor-manual.html

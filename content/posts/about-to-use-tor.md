@@ -33,8 +33,10 @@ your adversary model. Nonetheless they keep going and suggest ...**
 
 # Adding a VPN
 
-It sounds good, but it only helps in a small number of cases, [[does nothing in
-most cases, and hurts in a small number of cases|vpn-tor-not-mRikAa4h]].
+[vpn-plus-tor]: {{< ref "vpn-tor-not-net-gain" >}}
+
+It sounds good, but it only helps in a small number of cases, [does nothing in
+most cases, and hurts in a small number of cases][vpn-plus-tor].
 
 If you're going to say something about
 
@@ -132,7 +134,9 @@ it mind boggling that people who don't really understand what they're looking
 at try to claim anything concrete after using one of these sites, *especially*
 after using ones that give them an "anonymity score."
 
-[[This post|you-want-tor-24tFBCJV]] in the "Untruth: VPNs
+[you-want-tor]: {{< ref "you-want-tor-browser-not-a-vpn" >}}
+
+[This post][you-want-tor] in the "Untruth: VPNs
 prevent tracking [...]" section has a **non-exhaustive** list of **some** of
 the things that may be used to track you, many of which fingerprint-testing
 sites don't even consider.

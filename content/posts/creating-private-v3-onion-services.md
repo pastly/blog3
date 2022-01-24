@@ -18,8 +18,10 @@ maybe not updated, here.*
 
 ---
 
+[v2-post]: {{< ref "creating-private-onion-services" >}}
+
 This post is about v3 onion services with 56 characters in their name. For the
-old post for creating private v2 onion services, see [[here|creating-private-onion-GmiiUPQL]].
+old post for creating private v2 onion services, see [here][v2-post].
 
 In that old post I talked about some of the great features of Tor onion
 services. The features still apply with the new onion services: they are still

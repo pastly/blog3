@@ -63,7 +63,7 @@ are not backed up with any evidence that I've seen.
 If you have evidence of who is behind this traffic, please let someone know.
 [Tor Project](https://support.torproject.org/get-in-touch/) or me
 (blog comment, an email <small>(listed on [About
-Me](/posts/2016-08-28-about-me/))</small>, or IRC message)
+Me]({{< ref "about-me" >}}))</small>, or IRC message)
 
 <small>While I currently work on Tor-related stuff for my job, nothing contained in this
 post has anything to do with my work. Everything contained in this post is public unclassified

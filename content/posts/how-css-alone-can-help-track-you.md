@@ -33,11 +33,13 @@ It's still best to leave your Window size alone, but it probably isn't as bad
 to resize your window now. If you abhor letterboxing, set
 `privacy.resistFingerprinting.letterboxing` in `about:config` to false.
 
+[about-to-use-tor]: {{< ref "about-to-use-tor" >}}
+
 **June 2019 update**:
 [TorZillaPrint](https://ghacksuserjs.github.io/TorZillaPrint/TorZillaPrint.html)
 will tell you a bunch of things in addition to your window size as determined
-by this method.  Remember that [[I caution against reading too much into the
-results of a fingerprint test|about-to-use-SkxEFK1m]], but if you know what
+by this method.  Remember that [I caution against reading too much into the
+results of a fingerprint test][about-to-use-tor], but if you know what
 to do with this information (even I often don't), then this looks like a useful
 website. Thanks for reaching out, Thorin.
 

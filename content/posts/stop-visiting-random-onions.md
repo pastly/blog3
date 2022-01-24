@@ -34,8 +34,10 @@ Let's put that tiny number in some context. How about Powerball?
 - This means you are approximately 100,000,000,000 times more likely to win the next Powerball jackpot than the next random v2 onion service you click on/generate/whatever actually being up and responding
 - Said another way, if you could check 100 billion v2 onion services by the time there's another Powerball drawing (say ... in a week), you have an equal chance of finding **one** working v2 onion address as you have of winning the Powerball jackpot. This means checking 165,343.9 onion services **per second, every second** for the next week in order to have a 1 in 292 million chance that **one** of them is up and responding.
 
+[list]: {{< ref "stop-visiting-random-onions" >}}
+
 You will never find a working onion service by randomly clicking on links on
-[[my list of all onion services|stop-visiting-randomlygenerated-QoKRCmvm]] or by randomly
+[my list of all onion services][list] or by randomly
 generating links and trying them.
 
 By trying you are wasting Tor network resources. This isn't a problem if you

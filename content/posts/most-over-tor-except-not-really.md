@@ -16,11 +16,13 @@ maybe not updated, here.*
 
 ---
 
+[private-onion]: {{< ref "creating-private-onion-services" >}}
+
 I'm in the process of setting up a new server and I'm trying to be super ultra
 mega secure about it. It's running FreeBSD with some fancy security options
 enabled, blah blah blah, oh and I made SSH over Tor the only way to remotely
 access it for administration. It's a
-[[private onion service|creating-private-onion-GmiiUPQL]],
+[private onion service][private-onion],
 which is super cool in itself, but since I don't mind leaking the location of
 this server, it is also a single-onion service. This does seem to have a
 positive impact on the speed and latency to the machine, but after a few weeks
