@@ -77,8 +77,8 @@ last line of this snippit.
     [...]
 
 But if we build the the image again (and this time use `--no-cache` so that
-docker doesn't cache the intermediate images), we see the package fetching goes
-much faster.
+docker doesn't use existing intermediate images), we see the package fetching
+goes much faster.
 
     $ docker build --no-cache --network aptcache -t debianbase:bullseye .
     [...]
@@ -94,8 +94,8 @@ much faster.
     [...]
 
 <small>Note: the `--no-cache` option has nothing to do with our package cache.
-The former is a docker thing to speed up builds when lines near the end of a
-Dockerfile change; the latter is a caching proxy to Debian repositories that
+The flag is a docker thing to speed up builds when lines near the end of a
+Dockerfile change; we're creating a proxy to Debian repositories that
 intercepts HTTP requests and stores the responses for future use.</small>
 
 Now going forward, whenever you build a new image based on `debianbase`, as

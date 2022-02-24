@@ -24,7 +24,7 @@ because it's cheaper.
 
 The gist is to create a webserver that pretends to be a Debian package
 repository.  If it doesn't have something cached, it fetches it from upstream,
-cache it, and forward it own to the requesting client host.
+caches it, and forward it on to the requesting client host.
 
     $ cat Dockerfile
     FROM debian:bullseye
