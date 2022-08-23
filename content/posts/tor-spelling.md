@@ -15,7 +15,7 @@ tags:
 
 Warning: pedantry. I'm writing this down once so I have something to refer to in the future when I want to find [this PDF][paper] again.
 
-[Dr. Paul Syverson][paul] is "the father of onion routing." He and his colleagues at NRL 20 years ago created onion routing, and he plus Nick Mathewson and Roger Dingleline wrote the origin tor code (adapted from code Matej Pfajfar wrote) in the early 2000s. 
+[Dr. Paul Syverson][paul] is "the father of onion routing." He and his colleagues at NRL 20 years ago created onion routing, and he plus Nick Mathewson and Roger Dingledine wrote the origin tor code (adapted from code Matej Pfajfar wrote) in the early 2000s.
 
 In short: Dr. Syverson is an authority figure in this space and knows what he's talking about. He was there and **he is a primary source.**
 
