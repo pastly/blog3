@@ -11,15 +11,18 @@ categories:
 *This post first appeared on my old blog in May 2017. It is preserved, but
 maybe not updated, here.*
 
-*Furthermore, as of Decembmer 2020, I am not hosting the index anywhere.*
-
 ---
 
 I made a thing.
 
-<http://jld3zkuo4b5mbios.onion> and <http://vwx4mjvwoszgnagzcrwdjlsq3pq3zyob3zpq5qissxdoivnuyylzn7yd.onion>
-<small>(it used to be available at onions.system33.pw and
-ypqmhx5z3q5o6beg.onion)</small>
+<http://jptvwdeyknkv6oiwjtr2kxzehfnmcujl7rf7vytaikmwlvze773uiyyd.onion/>
+
+<small>At various times, it used to be available at
+jld3zkuo4b5mbios.onion,
+vwx4mjvwoszgnagzcrwdjlsq3pq3zyob3zpq5qissxdoivnuyylzn7yd.onion,
+onions.system33.pw, and
+ypqmhx5z3q5o6beg.onion
+</small>
 
 Most of what I wanted to say about it I've already said at those links above.
 
