@@ -4,6 +4,7 @@ WGET_DIR:= ./wgetcrawl
 CRAWL_ROOT_URL:= http://127.0.0.1:8000/
 RSYNC_HOST:=piggie
 RSYNC_DIR:=/var/www/matt.traudt.xyz
+BUILD_ARGS:=
 
 all: | deps build
 
@@ -22,7 +23,7 @@ deploy: build
 		$(RSYNC_HOST):$(RSYNC_DIR)
 
 build:
-	hugo
+	hugo $(BUILD_ARGS)
 
 find-broken-links:
 	mkdir -pv $(WGET_DIR)
