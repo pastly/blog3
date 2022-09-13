@@ -1,13 +1,20 @@
 ---
-title: "About Me"
-date: 2022-09-13
-slug: 2022-09-14-about-me"
+title: "About Me (old)"
+date: 2016-08-28
+slug: 2016-08-28-about-me"
 type: posts
 draft: false
 categories:
   - default
 tags:
   - meta
+---
+
+[about-me]: {{< ref "about-me" >}}
+
+*This post first appeared on my old blog in August 2016. It is preserved, but
+maybe not updated, here. My latest about me page is [here][about-me].
+
 ---
 
 [Rob Jansen]: https://www.robgjansen.com/
@@ -23,78 +30,24 @@ tags:
 [relays]: https://metrics.torproject.org/rs.html#search/pastly
 [flashflow]: https://flashflow.pastly.xyz
 
-I have two dogs, a fast car, and I'm currently obsessed with poker. Here's some
-pictures before this turns into a proper resume.
+I work for the Naval Research Lab. From 2016-2020 I worked among world experts
+on privacy and security performing research and development on Tor, and
+sometimes the Internet in general. You will find this reflected in my
+publications below.
 
-<table>
-<caption>
-2013 Corvette Grand Sport.
-</caption>
-<tr>
-<td><img src="/img/cars/c6-vinny-1.jpg" /></td>
-</tr></table>
+As of 2021 I still work for NRL but not to work with Tor.
+I want to keep doing privacy/security things in my free time, but I'm currently
+looking for monetize-able hobbies, and in my experience, privacy/security stuff
+isn't easily monetize-able. Contact me if you have an idea, and ideally funding
+go with it.
 
-<table>
-<caption>
-I had a 1988 Corvette too, but have since sold it.
-</caption>
-<tr>
-<td><img src="/img/cars/c4-c6-1.jpg" /></td>
-<td><img src="/img/cars/c4-c6-2.jpg" /></td>
-</tr></table>
-
-<table>
-<caption>
-Riley (left) and Vinny (right). Australian Cattle Dog / Australian Shepherd.
-Same parents, different litters ~1 year apart.
-</caption>
-<tr>
-<td><img src="/img/dogs/riley-1.jpg" /></td>
-<td><img src="/img/dogs/vinny-1.jpg" /></td>
-</tr>
-<tr>
-<td><img src="/img/dogs/riley-2.jpg" /></td>
-<td><img src="/img/dogs/vinny-2.jpg" /></td>
-</tr>
-<tr>
-<td><img src="/img/dogs/riley-3.jpg" /></td>
-<td><img src="/img/dogs/vinny-3.jpg" /></td>
-</tr>
-</table>
-
-
-
-I work for the Naval Research Lab. Since 2020 I've done things described by
-these bullet points:
-
-- Live network traffic analysis using Zeek and Suricata
-- Ansible Automation Platform (Ansible Tower)
-- Automating the application of DISA STIGs and SRGs
-
-From both my work and personal life I have experience with the following
-technologies:
-
-- Redhat Enterprise Linux, FreeBSD, Debian
-- Ansible, NGINX, Jenkins
-- Python, Rust, C
-- Docker
-
-Best I can tell, I'm most known on the Internet for my association with Tor.
-From 2016-2020 I worked among world experts on privacy and security performing
-research and development on Tor, and sometimes the Internet in general. You
-will find this reflected in my publications below.
-
-I have managed 10s of Tor relays over the years, many of which are exits. At
-times my fleet would push 1 Gbps 24/7/365 of usage (not capacity).  The
-relays I run can be found [here][relays] <small>(link likely to stop working
-without me noticing)</small>.
-
-# Contact
-
-Personal: **sirmatt |at| ksu d0t edu**  
-Tor: **pastly |at| torproject d0t org**  
-Work: **matthew d0t traudt |at| nrl d0t navy d0t mil**  
-[GPG 0x83BCA95294FBBB0A](/pastly.pubkey.txt)  
+As for running relays: I have managed 10s of relays over the years,
+many of which are exits. At times my fleet would push 1 Gbps all day every day
+(not *capacity*, but *usage*). Please contact
+me if you would like to support the operation of high-quality up-to-date relays
+and/or relays running new experimental versions of Tor. I will also run exits
+with your support. The relays I run can be found [here][relays] <small>(link likely to
+stop working without me noticing)</small>.
 
 # Publications
 
@@ -155,6 +108,15 @@ Matthew Traudt, [Rob Jansen][], and [Aaron Johnson][]
 [[arxiv](https://arxiv.org/pdf/1709.01044.pdf)]  
 Technical Report arXiv:1709.01044 [cs.CR] (arXiv 2017)  
 [Rob Jansen][] and Matthew Traudt
+
+# Contact
+
+Personal: **sirmatt |at| ksu d0t edu**  
+Tor: **pastly |at| torproject d0t org**  
+Work: **matthew d0t traudt |at| nrl d0t navy d0t mil**  
+[GPG 0x83BCA95294FBBB0A](/pastly.pubkey.txt)  
+Reddit: /u/system33- and /u/pastlytor. Any other username claiming to be me is lying.  
+IRC: pastly on irc.oftc.net  
 
 # Projects
 
