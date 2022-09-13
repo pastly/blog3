@@ -31,10 +31,11 @@ The event was at Dominion Raceway in Virginia.  This is a map of the track.
 ![Dominion track map](/first-trackcross/course.jpg)
 
 In the morning we drove just the twisty portion of the track, starting where it
-says "grid/staging" on the map. In the afternoon we did the same twisty portion
-plus the back mostly-straight-away, but with a cone chicane at the beginning of
-it to prevent us from going too fast. The finish line in the afternoon was
-just after the Mudd Tavern turn on the map.
+says "grid/staging" on the map and ending where it says finish. In the
+afternoon we did the same twisty portion plus the back mostly-straight-away,
+but with a cone chicane at the beginning of it to prevent us from going too
+fast. The finish line in the afternoon was just after the Mudd Tavern turn on
+the map.
 
 ## Videos
 
