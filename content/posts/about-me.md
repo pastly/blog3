@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2022-09-13
+date: 2022-09-14
 slug: 2022-09-14-about-me"
 type: posts
 draft: false
