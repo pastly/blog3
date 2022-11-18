@@ -57,10 +57,21 @@ HTTP servers.
 
 ## Tor benefits that I'd consider anonymity
 
-- 5/6ths of the path between the user and the server do not know the user. I do
-  not just mean the relays, but also the connections between them.
+- 5/6ths of the path between the user and the server does not know the user. I
+  do not just mean the relays, but also the connections between them.
 
-- Similarly, 5/6ths don't know the destination.
+- Similarly, 5/6ths doesn't know the destination. Well actually ...
+
+   - The onion service's guard can tell based on traffic patterns that it is a
+     guard for an onion service. Yet while the onion service's guard knows its
+IP address, the guard doesn't know *which* onion service it is acting as a
+guard for. This means no one knows the destination onion address. Nice! Well
+actually ...
+
+   - If the guard *already knows* the onion address (say it's a popular
+     publicly known address), it can perform a timing attack to confirm that it
+is the guard for the onion service. And now we're back to 5/6ths of the path
+doesn't known the destination.
 
 - 100% of the path doesn't know both.
 
