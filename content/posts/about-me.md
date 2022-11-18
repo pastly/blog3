@@ -136,7 +136,7 @@ Matthew Traudt and [Paul Syverson][]
 
 ## Tor Proposals
 
-[ff-torspec]: https://gitweb.torproject.org/torspec.git/tree/proposals/316-flashflow.txt
+[ff-torspec]: https://gitweb.torproject.org/torspec.git/tree/proposals/316-flashflow.md
 [ff-email]: https://lists.torproject.org/pipermail/tor-dev/2020-April/014243.html
 
 <big>**FlashFlow: A Secure Speed Test for Tor (Parent Proposal)**</big> [prop#316][ff-torspec], 2020  
