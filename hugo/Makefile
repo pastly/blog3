@@ -1,6 +1,8 @@
 .PHONY: all deps clean deploy find-broken-links
 
 WGET_DIR:= ./wgetcrawl
+PUBLISH_DIR:=../docker/publishdir
+#PUBLISH_DIR:=publishdir
 CRAWL_ROOT_URL:= http://127.0.0.1:8000/
 RSYNC_HOST:=piggie
 RSYNC_DIR:=/var/www/matt.traudt.xyz
@@ -19,11 +21,11 @@ deploy: build
 	rsync \
 		-air \
 		--delete \
-		publishdir/ \
+		$(PUBLISH_DIR)/ \
 		$(RSYNC_HOST):$(RSYNC_DIR)
 
 build:
-	hugo $(BUILD_ARGS)
+	hugo --destination $(PUBLISH_DIR) $(BUILD_ARGS)
 
 find-broken-links:
 	mkdir -pv $(WGET_DIR)

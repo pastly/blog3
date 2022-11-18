@@ -1,0 +1,14 @@
+<footer>
+    <nav>
+    <ul>
+      <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+      <li><a href="/posts">Posts</a></li>
+      <li><a href="/tags">Tags</a></li>
+    </ul>
+    </nav>
+	<p>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}"><b>{{ if .Site.Copyright }}{{ .Site.Copyright }}{{ else }}{{ .Site.Title }}{{ end }}</b></a>.
+	{{- range .Site.Menus.footer }}
+	<a href="{{ .URL }}"><b>{{ .Name }}</b></a>.
+        {{- end }}
+	</p>
+</footer>

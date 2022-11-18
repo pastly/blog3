@@ -1,0 +1,157 @@
+html {
+    overflow-y: scroll
+}
+:root {
+    --bgcolor: rgb(41, 41, 41);
+    --fontcolor: white;
+    --linkcolor: #5bf;
+    --visitedcolor: #ae5ee0;
+    --precolor: #fff;
+    --prebgcolor: #383838;
+}
+body {
+    max-width:800px;
+    margin:40px auto;
+    padding:0 10px;
+    font:14px/1.5 monospace;
+    color:var(--fontcolor);
+    background: var(--bgcolor);
+}
+a:link {
+    color: var(--linkcolor)
+}
+a:visited {
+    color: var(--visitedcolor)
+}
+a:active {
+    color: var(--visitedcolor)
+}
+h1,h2,h3 {
+    line-height:1.2
+}
+p > code {
+    color: var(--precolor);
+    background: var(--prebgcolor);
+    padding:2px;
+}
+pre {
+    color: var(--precolor);
+    background: var(--prebgcolor);
+    padding:24px;
+    overflow-x: auto
+}
+article {
+    padding:24px 0;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+figcaption {
+    color: #888;
+    font: 12px/1.5 monospace;
+    text-align: center;
+}
+figure {
+    margin: auto
+}
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto
+}
+
+.logo {
+    display: inline-block;
+    width: 100px;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+        "title    logos"
+        "title    subtitle"
+        "nav      nav";
+}
+
+header #title {
+    grid-area: title;
+    justify-self: center;
+    align-self: center;
+}
+
+header #subtitle {
+    grid-area: subtitle;
+    justify-self: right;
+}
+
+header #logos {
+    grid-area: logos;
+    justify-self: right;
+}
+
+header nav {
+    grid-area: nav;
+}
+
+
+/* Nav */
+nav {
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 0.5rem;
+    position: relative;
+    text-align: left;
+}
+
+/* Nav Dropdown */
+nav ul li:hover ul {
+    display: block;
+}
+
+nav ul li ul {
+    background: var(--color-bg);
+    border: 1px solid var(--color-bg-secondary);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow) var(--color-shadow);
+    display: none;
+    height: auto;
+    left: -2px;
+    padding: .5rem 1rem;
+    position: absolute;
+    top: 1.7rem;
+    white-space: nowrap;
+    width: auto;
+    z-index: 1;
+}
+
+nav ul li ul::before {
+    /* fill gap above to make mousing over them easier */
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -0.5rem;
+    height: 0.5rem;
+}
+
+nav ul li ul li,
+nav ul li ul li a {
+    display: block;
+}
