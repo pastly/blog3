@@ -75,9 +75,9 @@ From both my work and personal life I have experience with the following
 technologies:
 
 - Redhat Enterprise Linux, FreeBSD, Debian
-- Ansible, NGINX, Jenkins
+- Wireguard, Ansible, NGINX, Jenkins
 - Python, Rust, C
-- Docker
+- Docker, AWS
 
 Best I can tell, I'm most known on the Internet for my association with Tor.
 From 2016-2020 I worked among world experts on privacy and security performing
