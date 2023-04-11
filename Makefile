@@ -14,6 +14,7 @@ build:
 
 deploy: build
 	source options.env; \
+	cd hugo; \
 	rsync --delete -air $$HUGO_PUBLISH_DIR/ $$RSYNC_DEST
 
 #deploy: build
