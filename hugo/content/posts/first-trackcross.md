@@ -10,7 +10,7 @@ categories:
 tags:
   - racing
   - corvette
-  - trackcross
+  - cars
 ---
 
 ![My car at Dominion](/first-trackcross/IMG_2664.jpg)

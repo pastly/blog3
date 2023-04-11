@@ -1,0 +1,3 @@
+.gitignore
+export THUMB_SIZE
+export THUMB_PREFIX

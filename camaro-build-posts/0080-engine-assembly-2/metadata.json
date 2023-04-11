@@ -1,0 +1,24 @@
+{
+	"date": "2023-04-01",
+	"title": "Engine Assembly 2",
+	"body": "Day 2 starts right where 1 left off, just about 8 hours later.",
+	"media_groups": [
+		{
+			"media": ["signal-2023-04-02-181434_002.jpeg"],
+			"caption":"Starting point for the day. Heads and valley cover are not attached."
+		},
+		{
+			"media": ["signal-2023-04-02-181434_003.jpeg", "signal-2023-04-02-181434_004.jpeg"],
+		       	"caption": "The intake and exhaust surfaces on the heads cleaned up nicely"
+		},
+		{
+			"media": ["signal-2023-04-02-181434_005.jpeg"],
+		       	"caption": "Torquing the heads down"
+		},
+		{
+			"media": ["signal-2023-04-02-181434_007.jpeg", "signal-2023-04-02-181434_008.jpeg"],
+			"caption": "After adding the valve covers, this is the stopping point for the weekend. We didn't do a few small easy things like a DoD-delete valley cover, but the engine is mostly ready to be dropped in. Now to make room for it in the Camaro ..."
+		}
+	]
+}
+
