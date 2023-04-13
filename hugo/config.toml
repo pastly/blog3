@@ -9,6 +9,7 @@ paginate = 100
 
 [params]
 subtitle = "Tech, Pets, and Vettes. Not in that order."
+mainSections = ["posts", "camaro-posts"]
 
 [markup]
   [markup.goldmark]
