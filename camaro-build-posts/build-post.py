@@ -41,6 +41,10 @@ def read_metadata(fname):
         return json.load(fd)
 
 def write_slug(title, date, fd):
+    if title:
+        title = title.lower()
+        title = title.translate(str.maketrans('', '', string.punctuation))
+        title = '-'.join(title.split())
     if title and date:
         slug = f'{date}-{title}'
     elif title:
@@ -58,7 +62,7 @@ def build_post_content(meta):
     tags = meta['tags'] if 'tags' in meta and meta['tags'] else ["camaro", "cars"]
     f.write('---\n')
     if title:
-        f.write(f'title: {title}\n')
+        f.write(f'title: "{title}"\n')
     if date:
         f.write(f'date: {date}\n')
     write_slug(title, date, f)
