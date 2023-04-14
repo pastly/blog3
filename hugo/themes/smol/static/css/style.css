@@ -17,14 +17,20 @@ body {
     color:var(--fontcolor);
     background: var(--bgcolor);
 }
+a {
+    text-decoration: none;
+}
 a:link {
-    color: var(--linkcolor)
+    color: var(--linkcolor);
 }
 a:visited {
-    color: var(--visitedcolor)
+    color: var(--visitedcolor);
 }
 a:active {
-    color: var(--visitedcolor)
+    color: var(--visitedcolor);
+}
+a:hover {
+    text-decoration: underline;
 }
 h1,h2,h3 {
     line-height:1.2
@@ -154,4 +160,26 @@ nav ul li ul::before {
 nav ul li ul li,
 nav ul li ul li a {
     display: block;
+}
+
+/* Camaro post styling */
+.post-body {
+    margin-bottom: 1em;
+}
+.post-media-group {
+    border: 0px solid var(--fontcolor);
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+.post-media-group-caption {
+    margin-bottom: 1em;
+}
+
+.post-media-group-media img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    margin-bottom: 1em;
 }
