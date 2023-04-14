@@ -191,7 +191,7 @@ continuous traffic. See my relevant publications for more information.
 
 [Project link](https://github.com/pastly/bm)
 
-BM is barely maintained.
+BM is not maintained.
 
 <!-- This blog-like website is created with bm. -->
 
