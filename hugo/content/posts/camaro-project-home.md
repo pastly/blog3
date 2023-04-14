@@ -1,7 +1,7 @@
 ---
 title: "Camaro Project"
 date: 2023-04-11
-slug: 2023-04-11-camaro-project
+slug: camaro-project
 type: posts
 draft: false
 categories:
