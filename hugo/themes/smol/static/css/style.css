@@ -169,7 +169,6 @@ nav ul li ul li a {
 .post-media-group {
     border: 0px solid var(--fontcolor);
     margin-bottom: 1em;
-    padding: 1em;
 }
 
 .post-media-group-caption {
@@ -177,8 +176,8 @@ nav ul li ul li a {
 }
 
 .post-media-group-media img {
-    display: block;
-    max-width: 100%;
+    display: inline-block;
+    max-width: 49%;
     height: auto;
     margin: auto;
     margin-bottom: 1em;
