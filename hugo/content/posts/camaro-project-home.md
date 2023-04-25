@@ -12,7 +12,7 @@ tags:
   - camaro
 ---
 
-I bought a 1985 Camaro that technically runs for $1000 and turning it into a
+I bought a 1985 Camaro that technically runs for $1000, and I'm turning it into a
 race car. Turbo LS, built transmission, Ford 9" rear end, the works.
 
 I'm documenting the process here.
