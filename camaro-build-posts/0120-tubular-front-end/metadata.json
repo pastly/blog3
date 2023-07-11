@@ -1,0 +1,34 @@
+{
+	"date": "2023-07-11",
+	"title": "Tubular Front End",
+	"body": "It has come time to really cut up the Camaro and install the tubular front end.",
+	"media_groups": [
+		{
+			"media": [
+				"rear.jpeg",
+				"drop1.jpeg",
+				"drop2.jpeg",
+				"drop3.jpeg",
+				"drop4.jpeg",
+				"drop5.jpeg",
+				"drop6.jpeg"
+			],
+			"caption": "First we removed the rear end to help mitigate how back heavy the car was about to become. It is still clearly a bit back heavy, so we momentarily used wheels to help balance. I don't think it helped much."
+		},
+		{
+			"media": [
+				"prep.jpeg",
+				"cut.mp4",
+				"cut.jpeg"
+			],
+			"caption": "Then it was time to mark the cuts, and grit my teeth at all the corners I felt we were cutting, then just go for it. Here's my brother doing the honors. We were celebrating the 4th of July and my wife got us fun hats. Don't judge."
+		},
+		{
+			"media": [
+				"done1.jpeg",
+				"done2.jpeg"
+			],
+			"caption": "Finally it was time to weld it in. I let my brother do it all as I'm still very early in my welding skill acquisition."
+		}
+	]
+}
