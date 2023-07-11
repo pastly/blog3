@@ -18,7 +18,7 @@ race car. Turbo LS, built transmission, Ford 9" rear end, the works.
 I'm documenting the process here.
 
 Find just the posts related to this project by visiting the [Camaro tag]({{< ref "camaro" >}}).
-There is also an [RSS feed]({{< ref "camaro" "rss" >}}).
+There is also an [RSS feed]({{< ref "camaro" "rss" >}}) that sucks and I haven't fixed.
 
 <a href='{{< ref "purchase" >}}/purchase-1.jpeg'><img src='{{< ref "purchase" >}}/thumb.purchase-1.jpeg'></a>
 <a href='{{< ref "purchase" >}}/purchase-2.jpeg'><img src='{{< ref "purchase" >}}/thumb.purchase-2.jpeg'></a>
