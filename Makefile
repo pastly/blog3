@@ -1,4 +1,4 @@
-SHELL := /bin/bash
+SHELL := $(shell which bash)
 .PHONY: all \
 	build \
 	deploy
