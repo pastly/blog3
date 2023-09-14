@@ -86,7 +86,7 @@ def build_post_content(meta):
                 if os.path.splitext(media_item)[-1] in IMG_EXTS:
                     f.write(f'<a href="{media_item}"><img src="{THUMB_PREFIX}{media_item}"></a>\n')
                 elif os.path.splitext(media_item)[-1] in VID_EXTS:
-                    f.write(f'<video src="{media_item}" controls>\n')
+                    f.write(f'<video src="{media_item}" controls></video>\n')
                 else:
                     log_warn(f'Media file without known extension, ignoring: {media_item}')
             f.write('</div>\n')
