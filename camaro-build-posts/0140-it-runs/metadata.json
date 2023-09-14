@@ -1,0 +1,47 @@
+{
+	"date": "2023-09-10",
+	"title": "It Runs",
+	"body": "After a three day marathon of working on the car, it runs. Let's cut right to the chase.",
+	"media_groups": [
+		{
+			"media": [
+				"runs1.mp4",
+				"runs2.mp4"
+			],
+			"caption": "Here's the first two times it ran.<small> (Slight lie: it's actually the 3rd and 4th time because the first two times we didn't have the spark plugs in the right order)</small> Also there isn't any forced induction yet, I'm just borrowing the 4\" exhaust for the weekend, the transmission isn't installed, I haven't measured for a driveshaft, there's no brakes ... So much more work. But gosh darn it it fires up and has great oil pressure."
+		},
+		{
+			"media": [
+				"fuelpumps1.jpeg",
+				"fuelpumps2.jpeg",
+				"fuelpumps3.jpeg",
+				"fuelpumps4.jpeg",
+				"fuelpumps5.jpeg"
+			],
+			"caption": "One of the major projects was getting three fuel pumps mounted in the tank. Here we're dropping the rear end to get at the tank, remove it, and cut a larger hole for the new assembly. Then you can see the mounting plate we made for sealing it to the tank. The original hole is filled with a new fuel sending unit with everything extraneous stripped off it."
+		},
+		{
+			"media": ["fuelpumpsdiagram.png"],
+			"caption": "Because we neglected to take a picture of it before installing it, this first picture is how the fuel pump assembly my brother designed looks (without electric wires/connectors). It's roughly based on <a href='https://www.youtube.com/watch?v=onl2hcODgNs'>this assembly that Sloppy made</a>. The top left is the plate that seals against the tank and has fittings for the fuel input/output and electrical. The bottom right are the pumps (one primary that runs all the time, two secondary). Fuel lines connect the pumps to a manifold. A couple of rods and some welding hold everything in place. The reason for this shape is to sneak the pumps along the bottom of the tank and past the fuel level sending unit (the second picture, the bottom right bit is a float that reads the fuel level)."
+		},
+		{
+			"media": ["fuelsender.jpg"],
+			"caption": ""
+		},
+		{
+			"media": [
+				"hotside.jpeg",
+				"waterfitting.jpeg"
+			],
+			"caption": "The other big project was imagining, cutting, welding, recutting, etc. etc. etc. the hot side of the turbo kit. Here's where it stands today. We ran out of gas for the TIG, so the last 25% was MIG. We'll come back and address the looks of the welds ... later. See also: a fitting my brother welded onto the water pump that he's particularly proud of."
+		},
+		{
+			"media": ["wiring.jpeg"],
+			"caption": "Parts are literally laying all over the engine bay. The coil packs aren't mounted. Fuel return lines are way too long. Wiring is a rats nest inside, so you have to be careful what you touch."
+		},
+		{
+			"media": [],
+			"caption": ""
+		}
+	]
+}

@@ -1,0 +1,5 @@
+include_rules
+IMGS := *.jpeg *.jpg *.png
+VIDS := *.mp4
+: foreach $(IMGS) ^thumb\.* |> convert -thumbnail ${THUMB_SIZE} %f %o |> thumb.%f
+: $(IMGS) $(VIDS) |> ../build-post.py %o |> index.html
