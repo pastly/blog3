@@ -1,6 +1,6 @@
 publishdir
 wgetcrawl
-hugo/content/camaro-posts
+hugo/content/camaro
 .hugo_build.lock
 *.swp
 ##### TUP GITIGNORE #####

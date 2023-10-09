@@ -6,9 +6,10 @@ theme = "risotto"
 publishdir = "./publishdir"
 paginate = 3
 sectionPagesMenu = "main" # risotto
+pluralizelisttitles = false
 
 [params]
-mainSections = ["posts", "camaro-posts"]
+mainSections = ["posts", "camaro"]
 
 [menu]
 
