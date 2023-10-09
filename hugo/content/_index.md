@@ -11,7 +11,7 @@ I have extensive exerpience with Tor and privacy-enhacing technology. I do compu
 You may be interested in ...
 
 <ul>
-<li><a href="{{< ref camaro-project-home.md >}}">My camaro project</a>
+<li><a href="{{< ref camaro >}}">My camaro project</a>
 <li><a href="{{< ref posts >}}">All other posts</a>
 </ul>
 

@@ -27,6 +27,7 @@ title = "Matt Traudt"
 description = "Tech, Pets, and Vettes"
 #description = "Tech, Pets, and Vettes. Not in that order."
 #logo = "images/rice.svg"
+images = [ "img/logos/rust.png", "img/logos/riley.png", "img/logos/c7zr1.png" ]
 
 [markup]
   [markup.goldmark]

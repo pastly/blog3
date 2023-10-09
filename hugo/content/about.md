@@ -19,7 +19,7 @@ pictures before this turns into a proper resume.
 
 <table>
 <caption>
-2013 Corvette Grand Sport.
+2013 Corvette Grand Sport
 </caption>
 <tr>
 <td><img src="/img/cars/c6-vinny-1.jpg" /></td>
@@ -27,7 +27,7 @@ pictures before this turns into a proper resume.
 
 <table>
 <caption>
-I had a 1988 Corvette too, but have since sold it.
+I had a 1988 Corvette too, but have since sold it
 </caption>
 <tr>
 <td><img src="/img/cars/c4-c6-1.jpg" /></td>
