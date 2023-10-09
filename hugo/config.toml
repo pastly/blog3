@@ -9,7 +9,7 @@ sectionPagesMenu = "main" # risotto
 pluralizelisttitles = false
 
 [params]
-mainSections = ["posts", "camaro"]
+mainSections = ["posts", "camaro", "wsss"]
 
 [menu]
 

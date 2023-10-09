@@ -5,6 +5,9 @@ SHELL := $(shell which bash)
 
 all: build
 
+serve:
+	cd hugo; hugo server $(HUGO_EXTRA_OPTS)
+
 build:
 	source options.env; \
 	tup; \
