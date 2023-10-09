@@ -1,15 +1,31 @@
 baseURL = "/"
-#baseURL = "http://araqeu4xzitptpwuv3fb7dbskuq6btwdvh7qoloursotgbhssdl27tqd.onion/"
 languageCode = "en-us"
-title = "Matt Traudt"
-copyright = "Matt Traudt"
-theme = "smol"
+title = "mutt@home"
+copyright = "© Matt Traudt"
+theme = "risotto"
 publishdir = "./publishdir"
-paginate = 100
+paginate = 3
+sectionPagesMenu = "main" # risotto
 
 [params]
-subtitle = "Tech, Pets, and Vettes. Not in that order."
 mainSections = ["posts", "camaro-posts"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[params.theme]
+palette = "dracula"
+
+[params.about]
+title = "Matt Traudt"
+description = "Tech, Pets, and Vettes"
+#description = "Tech, Pets, and Vettes. Not in that order."
+#logo = "images/rice.svg"
 
 [markup]
   [markup.goldmark]
