@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "mutt@home"
+title = "pastly@home"
 copyright = "© Matt Traudt"
 theme = "risotto"
 publishdir = "./publishdir"
@@ -23,7 +23,7 @@ mainSections = ["posts", "camaro"]
 palette = "dracula"
 
 [params.about]
-title = "Matt Traudt"
+title = "Matt Traudt (pastly)"
 description = "Tech, Pets, and Vettes"
 #description = "Tech, Pets, and Vettes. Not in that order."
 #logo = "images/rice.svg"
