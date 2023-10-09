@@ -22,7 +22,7 @@ In most cases.
 
 [tls-web-traffic]: https://transparencyreport.google.com/https/overview
 [bad-relays]: https://trac.torproject.org/projects/tor/wiki/doc/ReportingBadRelays
-[about-me]: {{< ref "about-me" >}}
+[about-me]: {{< ref about >}}
 [css-track]: {{< ref "how-css-alone-can-help-track-you" >}}
 [fullscreen-browser]: https://old.reddit.com/r/TOR/comments/czftid/not_setting_browser_window_to_fullscreen/eyykf6p/
 [mouse-movement]: https://www.businessinsider.com/websites-apps-track-mouse-movements-screen-swipes-security-behavioral-biometrics-2019-7
