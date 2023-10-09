@@ -2,7 +2,7 @@
 title: "First Trackcross"
 date: 2022-09-13
 slug: 2022-09-13-first-trackcross
-type: posts
+type: post
 draft: false
 toc: false
 categories:

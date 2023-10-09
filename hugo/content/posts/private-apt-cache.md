@@ -2,7 +2,7 @@
 title: "Private Apt Cache"
 date: 2021-10-19T01:00:00
 slug: 2021-10-19-private-apt-cache
-type: posts
+type: post
 draft: false
 categories:
   - default

@@ -2,7 +2,7 @@
 title: "Don't Debug with Onion.to"
 date: 2016-12-02
 slug: 2021-12-02-dont-debug-with-onionto
-type: posts
+type: post
 draft: false
 toc: true
 categories:

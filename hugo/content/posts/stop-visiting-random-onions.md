@@ -2,7 +2,7 @@
 title: "Stop Visiting Randomly-Generated Onion Services"
 date: 2019-01-24
 slug: 2019-01-24-stop-visiting-random-onions
-type: posts
+type: post
 draft: false
 categories:
   - default

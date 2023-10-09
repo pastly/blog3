@@ -2,7 +2,7 @@
 title: "Tor is not 'TOR'"
 date: 2021-02-22
 slug: 2021-02-22-tor-spelling
-type: posts
+type: post
 draft: false
 categories:
   - default

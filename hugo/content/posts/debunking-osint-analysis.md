@@ -2,7 +2,7 @@
 title: "Debunking 'OSINT Analysis of the TOR Foundation' and a few words about Tor's directory authorities"
 date: 2021-02-12
 slug: 2021-02-12-debunking-osint-analysis
-type: posts
+type: post
 draft: false
 toc: true
 categories:

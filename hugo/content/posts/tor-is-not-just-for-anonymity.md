@@ -2,7 +2,7 @@
 title: "Tor Is Not Just for Anonymity"
 date: 2022-11-09
 slug: 2022-11-09-tor-is-not-just-for-anonymity"
-type: posts
+type: post
 draft: false
 categories:
   - default

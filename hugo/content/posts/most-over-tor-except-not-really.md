@@ -2,7 +2,7 @@
 title: "Mosh over Tor (Except Not Really)"
 date: 2017-06-18
 slug: 2017-06-18-mosh-over-tor-except-not-really
-type: posts
+type: post
 draft: false
 categories:
   - default

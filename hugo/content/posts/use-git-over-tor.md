@@ -2,7 +2,7 @@
 title: "Use Git over Tor"
 date: 2016-10-29
 slug: 2016-10-29-use-git-over-tor
-type: posts
+type: post
 draft: false
 toc: true
 categories:

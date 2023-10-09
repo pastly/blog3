@@ -2,7 +2,7 @@
 title: "Creating Private V3 Onion Services"
 date: 2019-01-19
 slug: 2019-01-19-creating-private-v3-onion-services"
-type: posts
+type: post
 draft: false
 toc: true
 categories:

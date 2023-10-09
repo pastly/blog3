@@ -2,7 +2,7 @@
 title: "Minimal Debian Base Image for Docker"
 date: 2021-10-18
 slug: 2021-10-18-minimal-debian-base-image-for-docker
-type: posts
+type: post
 draft: false
 categories:
   - default

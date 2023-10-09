@@ -2,7 +2,7 @@
 title: "How CSS Alone Can Help Track You"
 date: 2016-09-04
 slug: 2016-09-04-how-css-alone-can-help-track-you
-type: posts
+type: post
 draft: false
 categories:
   - default

@@ -2,7 +2,7 @@
 title: "About to use Tor. Any security tips?"
 date: 2019-01-19
 slug: 2019-01-19-about-to-use-tor"
-type: posts
+type: post
 draft: false
 toc: true
 categories:

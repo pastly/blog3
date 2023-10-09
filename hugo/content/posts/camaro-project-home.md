@@ -2,7 +2,7 @@
 title: "Camaro Project"
 date: 2023-04-11
 slug: camaro-project
-type: posts
+type: post
 draft: false
 categories:
   - default

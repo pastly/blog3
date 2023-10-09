@@ -2,7 +2,7 @@
 title: "Don't HTTPS Your Onions"
 date: 2017-12-20
 slug: 2017-12-02-dont-https-your-onions
-type: posts
+type: post
 draft: false
 toc: true
 categories:

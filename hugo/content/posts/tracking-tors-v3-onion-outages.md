@@ -2,7 +2,7 @@
 title: "Tracking Tor's network-wide V3 onion service outages"
 date: 2021-01-13
 slug: 2021-01-13-tracking-tors-v3-onion-outages
-type: posts
+type: post
 draft: false
 toc: true
 categories:

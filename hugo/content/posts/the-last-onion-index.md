@@ -2,7 +2,7 @@
 title: "The Last Onion Service Index"
 date: 2017-05-06
 slug: 2017-05-06-the-last-onion-index
-type: posts
+type: post
 draft: false
 categories:
   - default

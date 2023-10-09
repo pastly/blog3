@@ -2,7 +2,7 @@
 title: "You want Tor Browser ... not a VPN"
 date: 2019-10-17
 slug: 2019-10-17-you-want-tor-browser-not-a-vpn
-type: posts
+type: post
 draft: false
 toc: true
 categories:

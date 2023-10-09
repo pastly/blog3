@@ -2,7 +2,7 @@
 title: "Creating Private Onion Services"
 date: 2017-02-25
 slug: 2017-02-25-creating-private-onion-services"
-type: posts
+type: post
 draft: false
 categories:
   - default

@@ -2,7 +2,7 @@
 title: "Enough about Hacker Factor's '0days'"
 date: 2021-02-22
 slug: 2021-02-22-enough-about-hacker-factors-0days
-type: posts
+type: post
 draft: false
 categories:
   - default

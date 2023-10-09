@@ -2,7 +2,7 @@
 title: "I Wrote a Brainfuck Interpreter (in Rust)"
 date: 2021-01-08
 slug: 2021-01-08-i-wrote-a-brainfuck-interpreter-in-rust
-type: posts
+type: post
 draft: false
 categories:
   - default

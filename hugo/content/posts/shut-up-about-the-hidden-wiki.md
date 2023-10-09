@@ -2,7 +2,7 @@
 title: "Shut up about The Hidden Wiki"
 date: 2019-11-11
 slug: 2019-11-11-shut-up-about-the-hidden-wiki
-type: posts
+type: post
 draft: false
 categories:
   - default

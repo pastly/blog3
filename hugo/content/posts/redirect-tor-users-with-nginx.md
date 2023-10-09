@@ -2,7 +2,7 @@
 title: "Redirect Tor Users to Your Onion Service with Nginx"
 date: 2016-09-07
 slug: 2016-09-07-redirect-tor-users-with-nginx
-type: posts
+type: post
 draft: false
 categories:
   - default

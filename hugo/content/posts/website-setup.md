@@ -2,7 +2,7 @@
 title: "How I set up my websites with Tor and Nginx"
 date: 2021-05-03
 slug: 2021-05-03-website-setup
-type: posts
+type: post
 draft: false
 toc: true
 categories:

@@ -2,7 +2,7 @@
 title: "VPN + Tor: Not Necessarily a Net Gain"
 date: 2016-11-12
 slug: 2016-11-12-vpn-tor-not-net-gain
-type: posts
+type: post
 draft: false
 toc: true
 categories:
