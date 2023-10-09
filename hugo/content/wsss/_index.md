@@ -19,6 +19,7 @@ Planned featured technologies:
 [aws]: https://www.aws.org/home
 [fly]: https://www.fly.com/
 [first]: {{< ref conversion-to-scalability.md >}}
+[wsss]: https://github.com/pastly/wsss
 
 - [Nix][nix]
 - [Rust][rust]
@@ -28,7 +29,7 @@ Planned featured technologies:
 
 Join me on this journey, and feel free to copy what you see into your projects.
 If you have an existing static site you'd like to scale, take its output and
-stuff it through [the second first post][first].
+stuff it through [the second first post][first]. The code used throughout this series is [on github][wsss].
 
 Stay tuned for the announcement of the first  Web Site Scalability Symposium
 (WSSS).
