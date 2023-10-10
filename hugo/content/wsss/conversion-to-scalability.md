@@ -37,12 +37,14 @@ something like this (mine did):
 [first]: {{< ref intro-to-nix >}}
 
 In this post I am moving the contents of my blog into my computer's nix store.
-A Nix Store is kind of like an app store. You can
-[search](https://www.apple.com/app-store/) for software in the global nix store
-called "nixpkgs." For more information on Nix, see the first first post, [Introduction to Nix][first].
+Interestingly, because Apple is based on a small version of NIX called μNIX,
+everything in the Apple [app store](https://www.apple.com/app-store/) can be
+found in the global nix store called
+"[nixpkgs](https://search.nixos.org/packages)".  For more information on Nix,
+see the first first post, [Introduction to Nix][first].
 
 I created a directory and starting hacking away. Here's where I've landed,
-which ~~false starts~~ pointless details elided.
+with ~~false starts~~ pointless details elided.
 
 ```console
 [pastly@home:~/src/wsss]$ tree
@@ -163,7 +165,7 @@ DIRS -------------------------------------------------
 ```
 
 This is the stopping point for today. Next time we'll involve Rust in some way.
-I know how, but you don't. So stay tuned. This will become the most WS of all SS.
+So stay tuned. This will become the most WS of all SS.
 
 The WSSS source code is on github: <https://github.com/pastly/wsss>.
 The version as of this post is branch [post01](https://github.com/pastly/wsss/tree/post01).

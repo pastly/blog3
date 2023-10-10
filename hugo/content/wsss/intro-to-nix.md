@@ -12,8 +12,9 @@ tags:
 [purity-ring]: https://en.wikipedia.org/wiki/Purity_ring
 [first]: {{< ref conversion-to-scalability >}}
 
-[Nix][] is an operating system, hyper text markup language, and the origin of the
-\*NIX philosophy "do one thing and do it well".
+[Nix][] is a hyper text markup language, and the origin of the
+\*NIX philosophy "do one thing and do it well". It is also an operating system
+when you add "OS" to the end of the word.
 
 Nix is a key tool in the journey to web scale because Nix
 gets you
@@ -25,7 +26,7 @@ perfect
 Nix is a beautiful language because its functions can only take one argument.
 This is referred to as "purity" in functional programming, and fledgling
 functional programmers often get [rings][purity-ring] to symbolize their
-lifetime commitment to one-parameter functions.
+one-parameter functions until marriage.
 
 This purity combined with Python-like syntax leads to beautiful
 self-documenting code that anyone -- even non-programmers -- can understand.
@@ -56,18 +57,21 @@ tasks in outdated ways, which is great because it teaches them the full history
 of the language's best practices.  The documentation is generally written for
 people already familiar with all the jargon and tools. For instance, it
 provides the reader with snippets of code without instructions on what to do
-with them (because they already know).
+with them.
 
 Hopefully you want links to places where you can learn more about Nix and get
 your hands dirty with it, because that's what these are:
 
-- <https://nixos.wiki/wiki/Main_Page>
 - <https://nixos.org/guides/nix-pills/pr01>.
+- <https://nixos.wiki/wiki/Main_Page>
 - <https://nixos.org/learn>
 
-You have to read everything all at once because it all depends on everything.
+Nix Pills (the first link) is probably the most coherent way to learn Nix. It
+guides you through reconstructing how the Nixpkgs repository works from first
+principles, which is great for deep understanding but not so much when you just
+want to Get Shit Done.
 
-During your journey, if you figure out why these things are true and
+During your journey, if you figure out why the following things are true and
 beautifully inconsistent, let me know. I already know why, but I want to know
 that you've figured it out too.
 
