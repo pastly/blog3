@@ -41,3 +41,6 @@ images = [ "img/logos/rust.png", "img/logos/riley.png", "img/logos/c7zr1.png" ]
     endLevel = 3
     ordered = true
     startLevel = 1
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
