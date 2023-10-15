@@ -1,0 +1,19 @@
+{
+	"date": "2023-10-15",
+	"title": "20 psi of boost",
+	"body": "Hacked in a boost controller. Applied the transbrake and set the 2 step to 4000 rpm. Built 20 psi of boost.",
+	"media_groups": [
+		{
+			"media": [
+				"vid.mp4",
+				"log.png"
+			],
+			"caption": ""
+		},
+		{
+			"media": [],
+			"caption": "<a href=\"20-psi-launch.dl\">Datalog</a>"
+		}
+
+	]
+}

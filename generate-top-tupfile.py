@@ -7,8 +7,9 @@ import os
 import json
 import string
 
-IMG_EXTS = {'.jpeg', '.jpg', '.png'}
-VID_EXTS = {'.mp4'}
+IMG_EXTS = ['.jpeg', '.jpg', '.png']
+VID_EXTS = ['.mp4']
+MISC_EXTS = ['.dl']
 
 def get_folder_name(meta):
     title = meta['title'].lower()
@@ -37,7 +38,7 @@ def main(src_root, dest_root, tup_fd):
         os.makedirs(item[1], exist_ok=True)
         l = []
         l += [f': {item[0]}/index.html |> cp %f %o |> {item[1]}/index.html']
-        for ext in [_ for _ in IMG_EXTS] + [_ for _ in VID_EXTS]:
+        for ext in IMG_EXTS + VID_EXTS + MISC_EXTS:
             l += [f': foreach {item[0]}/*{ext} |> cp %f %o |> {item[1]}/%b']
         for s in l:
             print(s, file=tup_fd)
