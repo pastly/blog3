@@ -1,0 +1,26 @@
+{
+	"date": "2023-10-22",
+	"title": "Return of the Face",
+	"body": "Mega progress weekend, with a primary focus on getting the front bumper mounted.",
+	"media_groups": [
+		{
+			"media": [
+				"brackets1.jpeg",
+				"brackets2.jpeg",
+				"brackets3.jpeg",
+				"brackets4.jpeg",
+				"welding.mp4",
+				"done1.jpeg",
+				"done2.jpeg",
+				"done3.jpeg",
+				"done4.jpeg"
+			],
+			"caption": "We built brackets to mount the intercooler and radiator. We performed delicate surgery to the bumper to make room for our bracketing. The cold side is in place but is just tacked. "
+		},
+		{
+			"media": [ "transcooler.jpeg"],
+			"caption": "We also mounted the transcooler and plumbed it."
+		}
+
+	]
+}
