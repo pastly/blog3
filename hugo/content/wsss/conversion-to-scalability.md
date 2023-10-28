@@ -9,7 +9,7 @@ tags:
 ---
 
 Welcome. You're here either because you want to build a scalable static site,
-you're lost, or your friend played a trick on you.
+or you don't.
 
 Locate a copy of your existing non-scalable static site. Its layout might look
 something like this (mine did):
@@ -37,11 +37,8 @@ something like this (mine did):
 [first]: {{< ref intro-to-nix >}}
 
 In this post I am moving the contents of my blog into my computer's nix store.
-Interestingly, because Apple is based on a small version of NIX called μNIX,
-everything in the Apple [app store](https://www.apple.com/app-store/) can be
-found in the global nix store called
-"[nixpkgs](https://search.nixos.org/packages)".  For more information on Nix,
-see the first first post, [Introduction to Nix][first].
+For more information on Nix, see the first first post, [Introduction to
+Nix][first].
 
 I created a directory and starting hacking away. Here's where I've landed,
 with ~~false starts~~ pointless details elided.
@@ -165,7 +162,6 @@ DIRS -------------------------------------------------
 ```
 
 This is the stopping point for today. Next time we'll involve Rust in some way.
-So stay tuned. This will become the most WS of all SS.
 
 The WSSS source code is on github: <https://github.com/pastly/wsss>.
-The version as of this post is branch [post01](https://github.com/pastly/wsss/tree/post01).
+Code as of the original version of this post is on this branch: [post01](https://github.com/pastly/wsss/tree/post01).

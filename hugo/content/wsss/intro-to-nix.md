@@ -26,7 +26,7 @@ perfect
 Nix is a beautiful language because its functions can only take one argument.
 This is referred to as "purity" in functional programming, and fledgling
 functional programmers often get [rings][purity-ring] to symbolize their
-one-parameter functions until marriage.
+commitment to one-parameter functions until marriage.
 
 This purity combined with Python-like syntax leads to beautiful
 self-documenting code that anyone -- even non-programmers -- can understand.
@@ -46,13 +46,13 @@ let
 in pkgs
 ```
 
-As an expert in Nix, the purpose of the above code is obvious to me. I wrote
-it [on my own](https://nixos.org/guides/nix-pills/callpackage-design-pattern#id1426),
+I wrote the above
+[on my own](https://nixos.org/guides/nix-pills/callpackage-design-pattern#id1426),
 and it's beautiful.
 
 Despite our best effort, newcomers to the language may struggle to understand
 how Nix works. Thankfully experts like me have written tutorials and extensive
-documentation. The tutorials are undated and teach newcomers how to accomplish
+documentation. The tutorials are undated and tell newcomers how to accomplish
 tasks in outdated ways, which is great because it teaches them the full history
 of the language's best practices.  The documentation is generally written for
 people already familiar with all the jargon and tools. For instance, it
@@ -72,8 +72,7 @@ principles, which is great for deep understanding but not so much when you just
 want to Get Shit Done.
 
 During your journey, if you figure out why the following things are true and
-beautifully inconsistent, let me know. I already know why, but I want to know
-that you've figured it out too.
+beautifully inconsistent, let me know.
 
 To get a `nix-shell` prompt, you use `nix-shell`:
 
