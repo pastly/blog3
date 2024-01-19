@@ -12,7 +12,6 @@ You may be interested in ...
 
 <ul>
 <li><a href="{{< ref camaro >}}">My camaro project</a>
-<li><a href="{{< ref wsss >}}">My Web Scale Static Site project</a>
 <li><a href="{{< ref posts >}}">All other posts</a>
 </ul>
 
