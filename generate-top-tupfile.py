@@ -9,7 +9,10 @@ import string
 
 IMG_EXTS = ['.jpeg', '.jpg', '.png']
 VID_EXTS = ['.mp4']
-MISC_EXTS = ['.dl']
+MISC_EXTS = [
+    '.dl', # holly term x data log
+    '.drawio', # diagrams.net
+]
 
 def get_folder_name(meta):
     title = meta['title'].lower()
