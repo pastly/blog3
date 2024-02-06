@@ -7,7 +7,7 @@
 			"media": [
 				"plans.png"
 			],
-			"caption": "Here's the plan I worked off of (<a href=plans.drawio>here</a> as a diagrams.net file). It went through multiple major changes as I realized I had made a mistake or oversight. For example, I didn't even originally remember that the 9\" rear end came with brake lines. I wouldn't actually run hard line along the width of the rear end; the prudent thing to do would be to use the soft line and the T it came with, even if the T is a silly blue color."
+			"caption": "Here's the plan I worked off of (<a href=plans.drawio>here</a> as a diagrams.net file). It went through a major change each time I found a mistake or oversight. For example, I didn't even remember originally that the 9\" rear end came with brake lines, so I scrapped the plan to run hard line along the width of the rear end; the prudent thing to do would be to use the soft line and the T the rear end came with, even if the T is a silly blue color."
 		},
 		{
 			"media": [
@@ -30,18 +30,18 @@
 				"rear3.jpeg",
 				"rear4.jpeg"
 			],
-			"caption": "The rear hard line making its way towards the front of the car. Admire in the first two images our precision clearancing work from back when we installed the new torque arm and didn't want to burden it with having to bang the floor out of its way itself."
+			"caption": "The rear hard line making its way towards the front of the car. Admire in the first two images our precision clearancing work from back when we installed the new torque arm and didn't want to burden it with having to bang the floor out of the way itself."
 		},
 		{
 			"media": [
 				"soft1.jpeg",
 				"soft2.jpeg"
 			],
-			"caption": "Finally, a shot of two soft lines going to the calipers, one front and one rear. Yours truly <strike>welded</strike> boogered on the bracket for the front. Yes, those are coil packs hanging by their spark plug wires. I told you the car is only done enough to run."
+			"caption": "Finally, a shot of two soft lines going to the calipers, one front and one rear. Yours truly welded on the bracket for the front, the first welding I've done on the car. Yes, those are coil packs hanging by their spark plug wires. I told you the car is only done enough to run."
 		},
 		{
 			"media": ["2step.mp4"],
-			"caption": "Oh, and here's a shot from over a month ago of us trying to dial in the boost controller. We did more of this last weekend, and unfortunately we blew up the torque converter prematurely. The purchase of the Actual One just got bumped up a lot."
+			"caption": "Oh, and here's a shot from over a month ago of us trying to dial in the boost controller. We did more of this last weekend, and unfortunately we blew up the torque converter prematurely. The purchase of the <a href='https://shop.jakesperformance.com/shop/ols/products/th400350powerglide-245mm-billet'>Actual One</a> just got bumped up a lot."
 		}
 
 	]
