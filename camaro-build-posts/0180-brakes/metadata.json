@@ -1,0 +1,48 @@
+{
+	"date": "2024-02-05",
+	"title": "Brakes",
+	"body": "While the pads, rotors, and calipers were installed long ago, I never actually had brakes until this last weekend. We finally ran fresh brake line and bled the system.<br/><br/>",
+	"media_groups": [
+		{
+			"media": [
+				"plans.png"
+			],
+			"caption": "Here's the plan I worked off of (<a href=plans.drawio>here</a> as a diagrams.net file). It went through multiple major changes as I realized I had made a mistake or oversight. For example, I didn't even originally remember that the 9\" rear end came with brake lines. I wouldn't actually run hard line along the width of the rear end; the prudent thing to do would be to use the soft line and the T it came with, even if the T is a silly blue color."
+		},
+		{
+			"media": [
+				"front1.jpeg",
+				"front2.jpeg",
+				"front3.jpeg",
+				"front4.jpeg"
+			],
+			"caption": "Here are some shots of the engine bay. We ended up running the line for the front passenger brake over the top of the engine instead of under it. The line lock solenoid and the proportioning valve aren't actually mounted yet, but they are sitting where I think they'll go. They fit right in with the \"finished just enough to make it run\" theme."
+		},
+		{
+			"media": [
+				"rear1.jpeg"
+			],
+			"caption": "A shot of the rear lines, securely mounted to the panhard rod."
+		},
+		{
+			"media": [
+				"rear2.jpeg",
+				"rear3.jpeg",
+				"rear4.jpeg"
+			],
+			"caption": "The rear hard line making its way towards the front of the car. Admire in the first two images our precision clearancing work from back when we installed the new torque arm and didn't want to burden it with having to bang the floor out of its way itself."
+		},
+		{
+			"media": [
+				"soft1.jpeg",
+				"soft2.jpeg"
+			],
+			"caption": "Finally, a shot of two soft lines going to the calipers, one front and one rear. Yours truly <strike>welded</strike> boogered on the bracket for the front. Yes, those are coil packs hanging by their spark plug wires. I told you the car is only done enough to run."
+		},
+		{
+			"media": ["2step.mp4"],
+			"caption": "Oh, and here's a shot from over a month ago of us trying to dial in the boost controller. We did more of this last weekend, and unfortunately we blew up the torque converter prematurely. The purchase of the Actual One just got bumped up a lot."
+		}
+
+	]
+}
